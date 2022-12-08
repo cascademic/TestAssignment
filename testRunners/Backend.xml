@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Assignment" verbose="1" thread-count="1" preserve-order="true">
+
+<listeners>
+        <listener class-name="com.assignment.utilities.listeners.TestListener"/>
+    </listeners>
+
+    <parameter name="test.env" value="QA" />
+
+    <test name="Backend" thread-count="3" parallel="classes">
+        <classes>
+            <class name="com.assignment.Backend.CreateANewUser">
+
+            </class>
+
+        </classes>
+    </test>
+</suite>

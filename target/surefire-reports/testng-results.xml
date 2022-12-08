@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Assignment" duration-ms="1321" started-at="2022-09-21T11:26:25 BST" finished-at="2022-09-21T11:26:26 BST">
+    <groups>
+      <group name="Sanity">
+        <method signature="VerifyTeamSelectionE2E.validateOneWicketKeeper(java.lang.reflect.Method)[pri:0, instance:com.assignment.Backend.VerifyTeamSelectionE2E@43814d18]" name="validateOneWicketKeeper" class="com.assignment.Backend.VerifyTeamSelectionE2E"/>
+        <method signature="VerifyTeamSelectionE2E.validateOnlyForeignMembers(java.lang.reflect.Method)[pri:0, instance:com.assignment.Backend.VerifyTeamSelectionE2E@43814d18]" name="validateOnlyForeignMembers" class="com.assignment.Backend.VerifyTeamSelectionE2E"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="VerifyTeamSelectionE2E.validateOneWicketKeeper(java.lang.reflect.Method)[pri:0, instance:com.assignment.Backend.VerifyTeamSelectionE2E@43814d18]" name="validateOneWicketKeeper" class="com.assignment.Backend.VerifyTeamSelectionE2E"/>
+        <method signature="VerifyTeamSelectionE2E.validateOnlyForeignMembers(java.lang.reflect.Method)[pri:0, instance:com.assignment.Backend.VerifyTeamSelectionE2E@43814d18]" name="validateOnlyForeignMembers" class="com.assignment.Backend.VerifyTeamSelectionE2E"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test name="Backend" duration-ms="1321" started-at="2022-09-21T11:26:25 BST" finished-at="2022-09-21T11:26:26 BST">
+      <class name="com.assignment.Backend.VerifyTeamSelectionE2E">
+        <test-method status="PASS" signature="testInit(java.lang.String)[pri:0, instance:com.assignment.Backend.VerifyTeamSelectionE2E@43814d18]" name="testInit" is-config="true" duration-ms="27" started-at="2022-09-21T11:26:26 BST" finished-at="2022-09-21T11:26:26 BST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[QA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInit -->
+        <test-method status="PASS" signature="validateOneWicketKeeper(java.lang.reflect.Method)[pri:0, instance:com.assignment.Backend.VerifyTeamSelectionE2E@43814d18]" name="validateOneWicketKeeper" duration-ms="154" started-at="2022-09-21T11:26:26 BST" finished-at="2022-09-21T11:26:26 BST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.assignment.Backend.VerifyTeamSelectionE2E.validateOneWicketKeeper(java.lang.reflect.Method) throws java.io.IOException,org.json.simple.parser.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateOneWicketKeeper -->
+        <test-method status="PASS" signature="validateOnlyForeignMembers(java.lang.reflect.Method)[pri:0, instance:com.assignment.Backend.VerifyTeamSelectionE2E@43814d18]" name="validateOnlyForeignMembers" duration-ms="3" started-at="2022-09-21T11:26:26 BST" finished-at="2022-09-21T11:26:26 BST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.assignment.Backend.VerifyTeamSelectionE2E.validateOnlyForeignMembers(java.lang.reflect.Method) throws java.io.IOException,org.json.simple.parser.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateOnlyForeignMembers -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.assignment.Backend.VerifyTeamSelectionE2E@43814d18]" name="teardown" is-config="true" duration-ms="1" started-at="2022-09-21T11:26:26 BST" finished-at="2022-09-21T11:26:26 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.assignment.Backend.VerifyTeamSelectionE2E -->
+    </test> <!-- Backend -->
+  </suite> <!-- Assignment -->
+</testng-results>
