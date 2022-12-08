@@ -1,0 +1,88 @@
+[INFO ] 2022-12-08 04:43:07.821 [main] Log - Test Scripts Start Backend
+[INFO ] 2022-12-08 04:43:11.576 [TestNG-test=Backend-1] Log - RegisterNewUser test is starting.
+[INFO ] 2022-12-08 04:43:30.926 [TestNG-test=Backend-1] Log - RegisterNewUser test is succeed.
+[INFO ] 2022-12-08 04:43:30.942 [TestNG-test=Backend-1] Log - Tests are ending!
+[INFO ] 2022-12-08 04:43:30.983 [main] Log - Test Scripts Ends Backend
+[INFO ] 2022-12-08 04:48:10.495 [main] Log - Test Scripts Start Backend
+[INFO ] 2022-12-08 04:48:14.708 [TestNG-test=Backend-1] Log - RegisterNewUser test is starting.
+[INFO ] 2022-12-08 04:49:07.531 [TestNG-test=Backend-1] Log - RegisterNewUser test is succeed.
+[INFO ] 2022-12-08 04:49:07.535 [TestNG-test=Backend-1] Log - Tests are ending!
+[INFO ] 2022-12-08 04:49:07.579 [main] Log - Test Scripts Ends Backend
+[INFO ] 2022-12-08 05:02:24.476 [main] Log - Test Scripts Start Backend
+[INFO ] 2022-12-08 05:02:29.622 [TestNG-test=Backend-1] Log - RegisterNewUser test is starting.
+[INFO ] 2022-12-08 05:02:44.064 [TestNG-test=Backend-1] Log - RegisterNewUser test is succeed.
+[INFO ] 2022-12-08 05:02:44.067 [TestNG-test=Backend-1] Log - Tests are ending!
+[INFO ] 2022-12-08 05:02:44.093 [main] Log - Test Scripts Ends Backend
+[INFO ] 2022-12-08 05:03:46.825 [main] Log - Test Scripts Start Backend
+[INFO ] 2022-12-08 05:03:49.869 [TestNG-test=Backend-1] Log - RegisterNewUser test is starting.
+[INFO ] 2022-12-08 05:13:59.365 [main] Log - Test Scripts Start Backend
+[INFO ] 2022-12-08 05:14:02.889 [TestNG-test=Backend-1] Log - RegisterNewUser test is starting.
+[INFO ] 2022-12-08 05:18:35.353 [main] Log - Test Scripts Start Backend
+[INFO ] 2022-12-08 05:18:39.016 [TestNG-test=Backend-1] Log - RegisterNewUser test is starting.
+[INFO ] 2022-12-08 05:18:57.797 [TestNG-test=Backend-1] Log - RegisterNewUser test is succeed.
+[INFO ] 2022-12-08 05:18:59.135 [TestNG-test=Backend-1] Log - Tests are ending!
+[INFO ] 2022-12-08 05:18:59.172 [main] Log - Test Scripts Ends Backend
+[INFO ] 2022-12-08 05:19:40.123 [main] Log - Test Scripts Start Backend
+[INFO ] 2022-12-08 05:19:43.418 [TestNG-test=Backend-1] Log - RegisterNewUser test is starting.
+[INFO ] 2022-12-08 05:20:03.759 [TestNG-test=Backend-1] Log - RegisterNewUser test is succeed.
+[INFO ] 2022-12-08 05:20:05.146 [TestNG-test=Backend-1] Log - Tests are ending!
+[INFO ] 2022-12-08 05:20:05.167 [main] Log - Test Scripts Ends Backend
+[INFO ] 2022-12-08 05:20:25.992 [main] Log - Test Scripts Start Backend
+[INFO ] 2022-12-08 05:20:29.027 [TestNG-test=Backend-1] Log - RegisterNewUser test is starting.
+[INFO ] 2022-12-08 05:22:10.544 [TestNG-test=Backend-1] Log - RegisterNewUser test is succeed.
+[INFO ] 2022-12-08 05:22:14.848 [TestNG-test=Backend-1] Log - Tests are ending!
+[INFO ] 2022-12-08 05:22:14.869 [main] Log - Test Scripts Ends Backend
+[INFO ] 2022-12-08 06:14:33.729 [main] Log - Test Scripts Start Backend
+[INFO ] 2022-12-08 06:14:37.103 [TestNG-test=Backend-1] Log - RegisterNewUser test is starting.
+[INFO ] 2022-12-08 06:19:37.811 [main] Log - Test Scripts Start Backend
+[INFO ] 2022-12-08 06:19:40.781 [TestNG-test=Backend-1] Log - RegisterNewUser test is starting.
+[INFO ] 2022-12-08 06:20:10.804 [TestNG-test=Backend-1] Log - RegisterNewUser test is succeed.
+[INFO ] 2022-12-08 06:20:12.436 [TestNG-test=Backend-1] Log - Tests are ending!
+[INFO ] 2022-12-08 06:20:12.461 [main] Log - Test Scripts Ends Backend
+[INFO ] 2022-12-08 06:28:19.216 [main] Log - Test Scripts Start Backend
+[INFO ] 2022-12-08 06:28:22.673 [TestNG-test=Backend-1] Log - RegisterNewUser test is starting.
+[INFO ] 2022-12-08 06:29:14.917 [TestNG-test=Backend-1] Log - RegisterNewUser test is succeed.
+[INFO ] 2022-12-08 06:29:16.179 [TestNG-test=Backend-1] Log - Tests are ending!
+[INFO ] 2022-12-08 06:29:16.206 [main] Log - Test Scripts Ends Backend
+[INFO ] 2022-12-08 06:31:40.592 [main] Log - Test Scripts Start Backend
+[INFO ] 2022-12-08 06:31:43.726 [TestNG-test=Backend-1] Log - RegisterNewUser test is starting.
+[INFO ] 2022-12-08 06:35:15.830 [main] Log - Test Scripts Start Backend
+[INFO ] 2022-12-08 06:35:18.826 [TestNG-test=Backend-1] Log - RegisterNewUser test is starting.
+[INFO ] 2022-12-08 06:37:11.934 [TestNG-test=Backend-1] Log - RegisterNewUser test is succeed.
+[INFO ] 2022-12-08 07:53:04.840 [main] Log - Test Scripts Start Backend
+[INFO ] 2022-12-08 07:53:07.798 [TestNG-test=Backend-1] Log - RegisterNewUser test is starting.
+[INFO ] 2022-12-08 07:55:11.495 [TestNG-test=Backend-1] Log - RegisterNewUser test is succeed.
+[INFO ] 2022-12-08 07:56:00.745 [main] Log - Test Scripts Start Backend
+[INFO ] 2022-12-08 07:56:03.832 [TestNG-test=Backend-1] Log - RegisterNewUser test is starting.
+[INFO ] 2022-12-08 07:57:14.586 [TestNG-test=Backend-1] Log - RegisterNewUser test is succeed.
+[INFO ] 2022-12-08 07:58:46.312 [main] Log - Test Scripts Start Backend
+[INFO ] 2022-12-08 07:58:49.544 [TestNG-test=Backend-1] Log - RegisterNewUser test is starting.
+[INFO ] 2022-12-08 08:01:19.544 [main] Log - Test Scripts Start Backend
+[INFO ] 2022-12-08 08:01:22.608 [TestNG-test=Backend-1] Log - RegisterNewUser test is starting.
+[INFO ] 2022-12-08 08:03:28.901 [main] Log - Test Scripts Start Backend
+[INFO ] 2022-12-08 08:03:32.025 [TestNG-test=Backend-1] Log - RegisterNewUser test is starting.
+[INFO ] 2022-12-08 08:06:23.575 [main] Log - Test Scripts Start Backend
+[INFO ] 2022-12-08 08:06:26.643 [TestNG-test=Backend-1] Log - RegisterNewUser test is starting.
+[INFO ] 2022-12-08 08:24:38.344 [main] Log - Test Scripts Start Backend
+[INFO ] 2022-12-08 08:24:41.872 [TestNG-test=Backend-1] Log - RegisterNewUser test is starting.
+[INFO ] 2022-12-08 08:26:58.558 [TestNG-test=Backend-1] Log - RegisterNewUser test is succeed.
+[INFO ] 2022-12-08 08:34:19.399 [main] Log - Test Scripts Start Backend
+[INFO ] 2022-12-08 08:34:22.781 [TestNG-test=Backend-1] Log - RegisterNewUser test is starting.
+[INFO ] 2022-12-08 08:34:56.089 [TestNG-test=Backend-1] Log - RegisterNewUser test is succeed.
+[INFO ] 2022-12-08 08:34:57.434 [TestNG-test=Backend-1] Log - Tests are ending!
+[INFO ] 2022-12-08 08:34:57.467 [main] Log - Test Scripts Ends Backend
+[INFO ] 2022-12-08 08:36:33.892 [main] Log - Test Scripts Start Backend
+[INFO ] 2022-12-08 08:36:36.985 [TestNG-test=Backend-1] Log - RegisterNewUser test is starting.
+[INFO ] 2022-12-08 08:37:29.811 [TestNG-test=Backend-1] Log - RegisterNewUser test is failed.
+[INFO ] 2022-12-08 08:37:31.117 [TestNG-test=Backend-1] Log - Tests are ending!
+[INFO ] 2022-12-08 08:37:31.144 [main] Log - Test Scripts Ends Backend
+[INFO ] 2022-12-08 08:41:07.460 [main] Log - Test Scripts Start Backend
+[INFO ] 2022-12-08 08:41:10.386 [TestNG-test=Backend-1] Log - RegisterNewUser test is starting.
+[INFO ] 2022-12-08 08:42:54.045 [TestNG-test=Backend-1] Log - RegisterNewUser test is succeed.
+[INFO ] 2022-12-08 08:42:55.768 [TestNG-test=Backend-1] Log - Tests are ending!
+[INFO ] 2022-12-08 08:42:55.789 [main] Log - Test Scripts Ends Backend
+[INFO ] 2022-12-08 08:43:39.583 [main] Log - Test Scripts Start Backend
+[INFO ] 2022-12-08 08:43:42.800 [TestNG-test=Backend-1] Log - RegisterNewUser test is starting.
+[INFO ] 2022-12-08 08:45:09.900 [TestNG-test=Backend-1] Log - RegisterNewUser test is failed.
+[INFO ] 2022-12-08 08:45:11.474 [TestNG-test=Backend-1] Log - Tests are ending!
+[INFO ] 2022-12-08 08:45:11.501 [main] Log - Test Scripts Ends Backend
